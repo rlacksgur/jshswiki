@@ -3,7 +3,7 @@
 @font-face {
 
     font-family: mainFont;
-    src: url(Nanum-web-font/NanumGothic.woff) format('woff')
+    src: url(NanumGothic.woff) format('woff')
 }
 
 html {
